@@ -17,3 +17,5 @@ The following demo, show us this algoritm trying to find first 5000 primes with 
   ![screen](images/screen_record.gif)
 
 </center>
+
+As we can see, using a c-extension for the primality test we get a 2927x faster execution.
