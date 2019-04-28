@@ -4,7 +4,7 @@ A performance approach
 
 <br/>
 
-Primes generation is a clasic mathematical problem which needs to develop increasingly optimal algorithms to solve it, in this case we show two miller-rabin algorithm implementation strategies.
+Primes generation is a clasic mathematical problem which needs to develop increasingly optimal algorithms to solve it, in this case we choose miller-rabin algorithm.
 
 > [**Miller-Rabin**](https://en.wikipedia.org/wiki/Miller–Rabin_primality_test) is a probabilistic approch to determine if a number is prime or not similar to the Fermat Primality test.
 
