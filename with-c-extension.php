@@ -7,7 +7,7 @@ $counter = 0;
 for ($i = 100000000000; $counter <= 5000; $i++) {
     if (miller_rabin($i)) {
         $str_counter = str_pad($counter, 5, "0", STR_PAD_LEFT);
-        echo "{$str_counter} Primes founded: \r";
+        echo "{$str_counter} Primes found: \r";
         $counter++;
     }
 }
